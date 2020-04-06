@@ -184,5 +184,4 @@ class ContactController extends Controller
                 return array('error' => 0 );
             }
         }
-   
 }
